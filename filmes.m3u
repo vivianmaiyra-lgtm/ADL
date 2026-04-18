@@ -1,3 +1,3 @@
-#EXTM3U type="vod"
-#EXTINF:-1 tvg-name="Big Buck Bunny" tvg-logo="https://peach.blender.org/wp-content/uploads/title_anouncement.jpg?x11217" group-title="Filmes",Big Buck Bunny
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+#EXTM3U
+#EXTINF:-1 tvg-name="Frankenstein (1910)" group-title="Filmes | Terror",Frankenstein (1910)
+https://vdn.libreflix.org/v2/6913987948f11b7fb571ddeb/Frankenstein-1910-MwwOK5wf4Zg_001_720p.mp4
