@@ -1,10 +1,3 @@
 #EXTM3U type="vod"
-
-#EXTINF:-1 tvg-name="Frankenstein (1910)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg" group-title="Filmes | Terror",Frankenstein (1910)
-https://vdn.libreflix.org/v2/6913987948f11b7fb571ddeb/Frankenstein-1910-MwwOK5wf4Zg_001_720p.mp4
-
-#EXTINF:-1 tvg-name="Nosferatu (1922)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7b8xZ4vZV1s8CkZBHwNOpyYOuxQ.jpg" group-title="Filmes | Terror",Nosferatu (1922)
-https://archive.org/download/nosferatu_1922/Nosferatu_1922_720p.mp4
-
-#EXTINF:-1 tvg-name="The Cabinet of Dr. Caligari (1920)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kX8R3dCq6v9rY7l5V2kYFQ1H2P.jpg" group-title="Filmes | Terror",The Cabinet of Dr. Caligari (1920)
-https://archive.org/download/thecabinetofdoctorcaligari/TheCabinetOfDrCaligari_720p.mp4
+#EXTINF:-1 tvg-name="Big Buck Bunny" tvg-logo="https://peach.blender.org/wp-content/uploads/title_anouncement.jpg?x11217" group-title="Filmes",Big Buck Bunny
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
