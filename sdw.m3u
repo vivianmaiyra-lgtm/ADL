@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Frankenstein (1910)" group-title="Filmes | Terror",Frankenstein (1910)
+
+#EXTINF:-1 tvg-name="Frankenstein (1910)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg" group-title="Filmes | Terror" type="movie",Frankenstein (1910)
 https://vdn.libreflix.org/v2/6913987948f11b7fb571ddeb/Frankenstein-1910-MwwOK5wf4Zg_001_720p.mp4
