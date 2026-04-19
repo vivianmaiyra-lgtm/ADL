@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="animetv" tvg-name="Anime TV" tvg-logo="https://i.imgur.com/8fK4h6G.png" group-title="Desenhos;Anime TV",Anime TV
+#EXTINF:-1 tvg-id="animetv" tvg-name="Anime TV" tvg-logo="https://sharkapk.com/storage/appsCover/br.com.animetvtech/animetv-apk-cover.jpg" group-title="Desenhos;Anime TV",Anime TV
 #EXTGRP:Desenhos;Anime TV
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
