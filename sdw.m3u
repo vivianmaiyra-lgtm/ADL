@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="animetv" tvg-name="Anime TV" tvg-logo="https://sharkapk.com/storage/appsCover/br.com.animetvtech/animetv-apk-cover.jpg" group-title="Desenhos;Anime TV",Anime TV
-#EXTGRP:Desenhos;Anime TV
+#EXTINF:-1 tvg-id="animetv" tvg-name="Anime TV" tvg-logo="https://sharkapk.com/storage/appsCover/br.com.animetvtech/animetv-apk-cover.jpg" group-title="Desenhos",Anime TV
+#EXTGRP:Desenhos
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="frankenstein1910" tvg-name="Frankenstein (1910)" tvg-logo="https://media.fstatic.com/tRIVBkw4i-wlubrTE3YUtBMkERc=/350x525/smart/filters:format(webp)/media/movies/covers/2018/11/frankenstein-1910-edison.png" group-title="Filmes;Fantasia" tvg-year="1910" tvg-genre="Fantasia",Frankenstein (1910)
